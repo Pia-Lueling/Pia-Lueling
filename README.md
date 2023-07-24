@@ -1,4 +1,4 @@
-# New and curious
+# New and curious 🔥
 
 I come from a marketing background and have experience in CMS systems (Typo3, Wordpress etc.) and have also helped with a shop go live via Shopware 6.
 ___
