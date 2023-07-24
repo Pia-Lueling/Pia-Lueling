@@ -12,3 +12,7 @@ My hobbies reflect this passion:
 
 This could look like this ;):
 ![Woman dancing in the kitchen](https://ak.picdn.net/offset/photos/5fadb1826f52af4409e4fd25/large_w/offset_1036331.jpg)
+
+Now i’m currently learning Web Development and looking forward to the new challenge in my life.
+
+![New Banana](https://media.giphy.com/media/2gWZv0RJckc6HUQAxl/giphy.gif)
