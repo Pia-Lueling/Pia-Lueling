@@ -15,5 +15,3 @@ ___
 Now i’m currently learning [*Web Development*](https://www.neuefische.de/bootcamp/web-development) and looking forward to the new challenge in my life.
 
 ![New Banana](https://media.giphy.com/media/2gWZv0RJckc6HUQAxl/giphy.gif)
-
-![Pia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
