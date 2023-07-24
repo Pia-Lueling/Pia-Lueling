@@ -10,6 +10,8 @@ My hobbies reflect this passion:
 - 👩‍🍳 Cooking and baking for friends
 - 💃 Dancing - especially to house music
 
+___
+
 Now i’m currently learning Web Development and looking forward to the new challenge in my life.
 
 ![New Banana](https://media.giphy.com/media/2gWZv0RJckc6HUQAxl/giphy.gif)
