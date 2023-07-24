@@ -1,6 +1,7 @@
 # New and curious
 
 I come from a marketing background and have experience in CMS systems (Typo3, Wordpress etc.) and have also helped with a shop go live via Shopware 6.
+___
 Creating something has always fascinated me, which is why I decided to join the bootcamp at neuefische. 
 
 My hobbies reflect this passion:
