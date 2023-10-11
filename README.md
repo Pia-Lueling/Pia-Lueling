@@ -22,6 +22,6 @@ Lass uns zusammen etwas Großartiges erschaffen! 🚀 Wenn du nach einem leidens
 
 Connecte dich mit mir:
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/pia-l%C3%BCling-07aba915a/]
+🔗 [LinkedIn](https://www.linkedin.com/in/pia-l%C3%BCling-07aba915a/)
 
 Lass uns gemeinsam den Code ändern und die Welt verbessern! 🌈
